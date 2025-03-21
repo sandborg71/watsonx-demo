@@ -1,0 +1,6 @@
+env.sh
+node_modules
+dist
+.vscode
+.history
+keys
